@@ -1,6 +1,6 @@
 ![](docs/img/logo.png)
 
-# Lemons quality control dataset
+# Lemons quality control dataset :lemon:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![version](https://img.shields.io/badge/version-1.0.0-yellow.svg)](https://semver.org)
 
