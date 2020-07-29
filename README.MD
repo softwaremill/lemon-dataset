@@ -1,6 +1,7 @@
 ![](docs/img/logo.png)
 
 # Lemons quality control dataset :lemon:
+[![DOI](https://zenodo.org/badge/283124758.svg)](https://zenodo.org/badge/latestdoi/283124758)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![version](https://img.shields.io/badge/version-1.0.0-yellow.svg)](https://semver.org)
 
@@ -62,9 +63,8 @@ Biblatex entry:
   institution  = {SoftwareMill},
   month        = jul,
   year         = 2020,
-  note         = {https://github.com/softwaremill/lemon-dataset},
-  doi          = {???},
-  url          = {https://doi.org/???}
+  doi          = {10.5281/zenodo.3965568},
+  url          = {https://github.com/softwaremill/lemon-dataset}
 }
 ```
 
