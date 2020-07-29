@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![version](https://img.shields.io/badge/version-1.0.0-yellow.svg)](https://semver.org)
 
-Lemon dataset has been prepared to investigate the possibilities to tackle the issue of fruit quality control. It contains 2690 annotated images  Raw lemon images have been captured using the procedure described in the following [blogpost](https://blog.softwaremill.com/when-life-gives-you-lemons-create-a-dataset-70522d6b1aa0) and manually annotated using [CVAT](https://github.com/opencv/cvat).
+Lemon dataset has been prepared to investigate the possibilities to tackle the issue of fruit quality control. It contains 2690 annotated images (1056 x 1056 pixels). Raw lemon images have been captured using the procedure described in the following [blogpost](https://blog.softwaremill.com/when-life-gives-you-lemons-create-a-dataset-70522d6b1aa0) and manually annotated using [CVAT](https://github.com/opencv/cvat).
 
 Here's an example of raw unannotated data:
 
